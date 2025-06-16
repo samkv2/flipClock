@@ -1,6 +1,10 @@
 # Flip Clock
 
-This project is a simple flip clock application. To get started, follow these steps:
+This project is a simple flip clock application.
+![Preview](application.png)
+
+
+To get started, follow these steps:
 
 ## Importing into IntelliJ IDEA
 
